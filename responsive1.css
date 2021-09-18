@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+@media (max-width:1024px) {}
+
+@media (max-width:670px) {
+    .header {
+        width: 670px;
+    }
+
+    .header-right {
+        float: none;
+        margin-left: 100px;
+    }
+
+    .header-left {
+        display: none;
+    }
+
+    .main-visual {
+        margin-left: 100px;
+    }
+
+    .footer {
+        margin-left: 100px;
+    }
+}

@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+@media (max-width:1024px) {
+    .header-right {
+        margin-right: 350px;
+    }
+}
+
+@media (max-width:670px) {
+    .header-left {
+        display: none;
+    }
+
+    .header-right {
+        margin-right: 280px;
+    }
+
+}
